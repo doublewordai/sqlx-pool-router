@@ -234,7 +234,7 @@ cargo fmt
 This library is used in production by:
 - [outlet-postgres](https://github.com/doublewordai/outlet-postgres) - HTTP logging middleware
 - [fusillade](https://github.com/doublewordai/fusillade) - LLM batching daemon
-- [dwctl](https://github.com/doublewordai/control-layer) - Observability platform
+- [dwctl](https://github.com/doublewordai/control-layer-public) - Observability platform
 
 When making changes, consider impact on these downstream consumers.
 
