@@ -219,7 +219,7 @@ Examples: creating records, updates, deletes, transactions
 This library is used in production by:
 - [outlet-postgres](https://github.com/doublewordai/outlet-postgres) - HTTP request/response logging middleware
 - [fusillade](https://github.com/doublewordai/fusillade) - LLM request batching daemon
-- [dwctl](https://github.com/doublewordai/control-layer) - Observability and analytics platform
+- [dwctl](https://github.com/doublewordai/control-layer-public) - Observability and analytics platform
 
 ## License
 
